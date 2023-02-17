@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a full-stack software engineer and writer. I love programming, writing, speaking and traveling.<br>As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.<br><br>🔭 I’m currently working on Movers and Packagers<br>🌱 I’m currently learning Vue.js and Vite.js<br>💬 Ask me about Over the last 9+ years, I have implemented different frontend architectures from scratch and also designs/redesigns for and onto many applications and websites for numerous various businesses using a lot of frameworks and technologies<br>
+I am a full-stack software engineer and writer. I love programming, writing, speaking and traveling.<br>As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.<br><br>🔭 I’m currently working on Movers and Packagers<br>🌱 I’m currently learning Vue.js and Vite.js<br>💬 Ask me about , I am happy to help
 
 
 ## 🌐 Socials:
